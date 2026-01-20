@@ -14,7 +14,7 @@
 
 <!-- Contact buttons -->
 <p>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:thanhhiep.hongduc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1f2937?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://www.linkedin.com/in/hiep-nguyen-a40884326">
