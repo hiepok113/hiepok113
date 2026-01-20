@@ -32,16 +32,26 @@
 
 ---
 
-## 🛠️ Languages · Frameworks · Tools
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nextjs" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Backend + Database -->
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb,postgres" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </div>
 
 ---
