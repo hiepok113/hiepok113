@@ -54,7 +54,3 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </div>
 
----
-
-## 📌 Featured
-- 🎡 Spinning Wheel Promo (Vite + React + TS): https://github.com/hiepok113/spinning-wheel-promo
