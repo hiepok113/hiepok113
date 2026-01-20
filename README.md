@@ -2,7 +2,7 @@
 
 <!-- Typing effect (no JS needed) -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi+There!+%F0%9F%91%8B;I'm+Hiep+Nguyen;Frontend+Developer"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi+There!+%F0%9F%91%8B;I'm+Hiep+Nguyen;FullStack+Developer"
 />
 
 <br/>
